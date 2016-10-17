@@ -1,3 +1,3 @@
 # robot_gui
 
-[Screenshot](screen.png)
+![Screenshot](screen.png)
